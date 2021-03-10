@@ -1,0 +1,12 @@
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.csprojAssemblyReference.cache
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.AssemblyInfoInputs.cache
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.AssemblyInfo.cs
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.csproj.CoreCompileInputs.cache
+F:\feb2021\feb2021\feb2021\bin\Debug\netcoreapp2.2\feb2021.deps.json
+F:\feb2021\feb2021\feb2021\bin\Debug\netcoreapp2.2\feb2021.runtimeconfig.json
+F:\feb2021\feb2021\feb2021\bin\Debug\netcoreapp2.2\feb2021.runtimeconfig.dev.json
+F:\feb2021\feb2021\feb2021\bin\Debug\netcoreapp2.2\feb2021.dll
+F:\feb2021\feb2021\feb2021\bin\Debug\netcoreapp2.2\feb2021.pdb
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.dll
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.pdb
+F:\feb2021\feb2021\feb2021\obj\Debug\netcoreapp2.2\feb2021.genruntimeconfig.cache
