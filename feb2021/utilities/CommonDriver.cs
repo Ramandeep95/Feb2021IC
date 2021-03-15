@@ -9,6 +9,6 @@ namespace feb2021.utilities
     class CommonDriver
     {
         // Intiate and define Webdriver
-        public static IWebDriver driver = new ChromeDriver(@"F:\feb2021\feb2021");
+        public static IWebDriver driver = new ChromeDriver();
     }
 }
